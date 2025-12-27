@@ -14,8 +14,8 @@ O objetivo deste projeto é fornecer uma interface programática para a criaçã
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Java 17
-* **Framework:** Spring Boot 3+
+* **Linguagem:** Java 21
+* **Framework:** Spring Boot 4+
 * **Persistência:** Spring Data JPA
 * **Banco de Dados:** H2 Database (Em memória para fácil execução)
 * **Gerenciador de Dependências:** Maven
