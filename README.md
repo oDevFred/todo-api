@@ -28,7 +28,7 @@ Siga os passos abaixo para ter o projeto rodando localmente:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/todo-api.git
+git clone https://github.com/oDevFred/todo-api.git
 
 ```
 
